@@ -3,7 +3,7 @@
 
 <p> I am a web developer and I love building useful apps </p> 
 <p>I am skilled in HTML, CSS, BOOTSTRAP, SCSS, PHP, GIT</p>
-<p>I am currently learning APIs with PHP</p>
+<p>I am currently learning Javascript</p>
 <p> Want to work with me ? reach me on <a href="mailto:adedayoemmanuel729@gmail.com">GMAIL</a> </p>
 <!---
 EMMANUEL-SUNMBOLA/EMMANUEL-SUNMBOLA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
