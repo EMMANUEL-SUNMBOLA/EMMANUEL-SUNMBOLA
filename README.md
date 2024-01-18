@@ -20,7 +20,7 @@ I'm a 19-year-old developer based in Nigeria, and I'm passionate about crafting 
 ## ✨ Fun Facts 
 
 - Naruto is my favorite anime.
-- As a kid, I wanted to be a Pysicist.
+- I love to play chess.
 - I love using Linux after switching from Windows.
 
 ## 📫 Contact
