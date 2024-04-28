@@ -2,7 +2,7 @@
 
 I'm a web-developer based in Nigeria, and I'm passionate about crafting digital experiences. 
 
-- Check out my [portfolio](https://sunmbola-portfolio.netlify.app/) to learn more about me.
+- Check out my [Portfolio](https://sunmbola-portfolio.netlify.app/) to learn more about me.
 
 
 ## 📦 Toolbox
@@ -19,9 +19,9 @@ I'm a web-developer based in Nigeria, and I'm passionate about crafting digital 
 
 ## ✨ Fun Facts 
 
-- Naruto is my favorite anime.
-- I love to play chess.
-- I love using Linux after switching from Windows.
+- `Naruto` is my favorite anime.
+- I love to play `chess`.
+- `LINUX` >>> `WINDOWS`
 
 ## 📫 Contact
 
